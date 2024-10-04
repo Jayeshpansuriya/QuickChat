@@ -5,7 +5,7 @@ QuickChat is a real-time chat application built using modern web technologies. I
 ![QuickChat Preview](chatapppng.png)  
 _QuickChat interface on desktop and mobile_
 
-**[Live Demo](https://quickchat-aditya.onrender.com)**
+
 
 ---
 
@@ -14,9 +14,6 @@ _QuickChat interface on desktop and mobile_
      ![Project GIF](chatapp.gif)
     
 
-2. **Deployed Link**:
-  
-     **[Live Demo](https://quickchat-aditya.onrender.com/)**
 
 ## Features
 
